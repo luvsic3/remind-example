@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "remind-contributions": "^0.3.0",
+    "remind-core": "^0.3.0"
+  }
+}
