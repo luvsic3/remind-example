@@ -41,4 +41,5 @@ const customData: TopicData = {
 createMindmap(document.querySelector('#app')!, {
   value: customData,
   contributions,
+  // layout: 'structure',
 });
